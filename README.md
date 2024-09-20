@@ -44,4 +44,4 @@ streamlit run dashboard.py
 Access the dashboard in your web browser at `http://localhost:8501`.
 
 ## Data Sources
-The project uses E-Commerce Public Dataset from [Belajar Analisis Data dengan Python's Final Project](https://drive.google.com/file/d/1RhU3gJlkteaAQfyn9XOVAz7a5o1-etgr/view) offered by [Dicoding](https://www.dicoding.com/).
+The project uses Air Quality Dataset from [Belajar Analisis Data dengan Python's Final Project](https://drive.google.com/file/d/1RhU3gJlkteaAQfyn9XOVAz7a5o1-etgr/view) offered by [Dicoding](https://www.dicoding.com/).
